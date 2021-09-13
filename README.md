@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kuanysh Kalikhanov
+- 👀 I’m interested in programming since 2017. 
+- 🌱 I’m currently learning Java -> Spring and JS -> React
+- 📫 How to reach me? https://t.me/Kuanysh_Kalikhanov
