@@ -1,67 +1,68 @@
-# Привет! Я Куаныш 👋 (KuanyshKK)
+# 📟 system_override --user KuanyshKK
 
-Программист с крепким фундаментом в **Java Enterprise**, активно развивающийся в сфере **AI Engineering, LLM и LLMOps**. Умею строить отказоустойчивые backend-системы и интегрировать современные нейросетевые решения в продакшн.
-
----
-
-## 🛠️ Стек технологий & Инструменты
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Java" />
-      <br>Java / Spring
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Go" />
-      <br>Go (Golang)
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Docker" />
-      <br>Docker / DevOps
-    </td>
-    <td align="center" width="96">
-      <img src="https://icons8.com" width="48" height="48" alt="AI/LLM" />
-      <br>LLM / Agents
-    </td>
-  </tr>
-</table>
-
-* **AI & LLM:** Разработка AI-агентов, LLMOps, обработка аудио и генерация контента (Voice LLM, VideoGen).
-* **Backend:** Spring Boot, REST API, многопоточность, интеграция с базами данных и брокерами сообщений (Kafka).
-* **Инструменты & DevOps:** Git, Linux, Docker, базовые практики CI/CD.
-
----
-
-## 🚀 Ключевые проекты
-
-### 🤖 AI & Инженерия данных
-* **[voice_llm](https://github.com)** — Эксперименты и разработка голосовых решений на базе больших языковых моделей (LLM).
-* **[videoGen](https://github.com)** — Проект по автоматической генерации видеоконтента с использованием искусственного интеллекта.
-* **[30-Agents-Every-AI-Engineer-Must-Build](https://github.com)** — Практическое освоение и адаптация ключевых паттернов проектирования AI-агентов.
-
-### ☕ Backend & Традиционная разработка
-* **[go-test](https://github.com)** — Репозиторий для изучения языка Go и написания высоконагруженных микросервисов.
-* **[Online-shop](https://github.com) & [Library](https://github.com)** — Классические backend-приложения на Java, демонстрирующие понимание ООП, архитектуры баз данных и логики бизнес-процессов.
-
----
-
-## 📈 GitHub Статистика
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📫 Как со мной связаться
-* **GitHub:** Вы находитесь здесь! Смело открывайте Issue или Pull Request.
+### 🌐 INITIALIZING SYSTEM PREFERENCES...
+
+```diff
++ [STATUS]: System Online
++ [ROLE]: AI Engineer // Java Backend Developer
++ [FOCUS]: LLM Agents, LLMOps, High-Load Microservices
+```
+
+> *"Ты увязаешь в Матрице, Куаныш. Ты ищешь ответы..."*  
+> Путь начался с классической **Java/Spring** архитектуры, но архитектура кода изменилась. Теперь я переписываю правила реальности с помощью **Python, LLM и автономных AI-агентов**.
+
+---
+
+### 🛠️ DECODING TECH STACK
+
+<p align="left">
+  <img src="https://shields.io" height="25" />
+  <img src="https://shields.io" height="25" />
+  <img src="https://shields.io" height="25" />
+  <img src="https://shields.io" height="25" />
+  <img src="https://shields.io" height="25" />
+  <img src="https://shields.io" height="25" />
+  <img src="https://shields.io" height="25" />
+</p>
+
+* **`[Neural Network Core]`** Проектирование когнитивных AI-агентов, LLMOps, генерация видеоконтента (`videoGen`) и обработка речи (`voice_llm`).
+* **`[Enterprise Backend]`** Разработка отказоустойчивых сервисов на Java/Spring, многопоточность, оптимизация баз данных и асинхронный стриминг данных (Kafka).
+* **`[System Control]`** Виртуализация через Docker, работа в Linux-терминалах, автоматизация рутины скриптами.
+
+---
+
+### 📁 ACCESSING CORE PROJECTS
+
+#### 🤖 `[Subsystem: Artificial Intelligence]`
+* 📁 **[voice_llm](https://github.com)** — Архивация данных голосового взаимодействия с LLM моделями.
+* 📁 **[videoGen](https://github.com)** — Нейросетевой пайплайн для автономной генерации видеоряда.
+* 📁 **[30-Agents-Every-AI-Engineer-Must-Build](https://github.com)** — Исследование и развертывание 30 автономных агентских систем.
+
+#### ⚡ `[Subsystem: Microservices & Data]`
+* 📁 **[go-test](https://github.com)** — Эксперименты по выходу из матрицы ООП в параллельный мир легковесных горутин на Go.
+* 📁 **[Online-shop](https://github.com)** — Монолитная Java-база данных товарных транзакций.
+
+---
+
+### 📊 NEURAL ACTIVITY MONITORS
+
+<p align="left">
+  <img src="https://vercel.app" alt="Matrix Stats" height="180" />
+  <img src="https://vercel.app" alt="Matrix Top Langs" height="180" />
+</p>
+
+---
+
+### 📞 ESTABLISHING SECURE CONNECTION
+
+```bash
+\$ nmap -sV -p 22 kuanysh.matrix
+\$ connect --identity "KuanyshKK на GitHub"
+```
+> Выберите синюю таблетку — и история закончится. Выберите **создать Issue/PR** — и вы останетесь в Стране Чудес, а я покажу вам, глубока ли кроличья нора.
