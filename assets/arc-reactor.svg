@@ -1,1 +1,70 @@
-<img src="https://raw.githubusercontent.com/KuanyshKK/KuanyshKK/main/assets/arc-reactor.svg" width="220" alt="Arc reactor" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#9FFBFF"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0.15"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0.28"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="textCircle" d="M50,200 a150,150 0 1,1 300,0 a150,150 0 1,1 -300,0"/>
+  </defs>
+
+  <circle cx="200" cy="200" r="195" fill="#0B0E14"/>
+  <circle cx="200" cy="200" r="195" fill="url(#halo)"/>
+
+  <!-- outer dashed ring -->
+  <g filter="url(#glow)">
+    <circle cx="200" cy="200" r="186" fill="none" stroke="#00F0FF" stroke-width="2" stroke-dasharray="6 10">
+      <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="40s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="200" r="174" fill="none" stroke="#FF0033" stroke-width="1.5" opacity="0.8"/>
+  </g>
+
+  <!-- rotating text -->
+  <g>
+    <text font-family="Orbitron, 'Courier New', monospace" font-size="17" font-weight="700" fill="#00F0FF" letter-spacing="3">
+      <textPath href="#textCircle" textLength="930" lengthAdjust="spacing">STARK INDUSTRIES • MAINFRAME • STARK INDUSTRIES • MAINFRAME •</textPath>
+    </text>
+    <animateTransform attributeName="transform" type="rotate" from="360 200 200" to="0 200 200" dur="60s" repeatCount="indefinite"/>
+  </g>
+
+  <circle cx="200" cy="200" r="128" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.9"/>
+  <circle cx="200" cy="200" r="70" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.9"/>
+
+  <!-- coil segments -->
+  <g filter="url(#glow)" fill="#00F0FF" fill-opacity="0.18" stroke="#00F0FF" stroke-width="2">
+    <g>
+      <g id="seg"><path d="M186,82 L214,82 L210,128 L190,128 Z" transform="translate(0 0)"/></g>
+      <use href="#seg" transform="rotate(36 200 200)"/>
+      <use href="#seg" transform="rotate(72 200 200)"/>
+      <use href="#seg" transform="rotate(108 200 200)"/>
+      <use href="#seg" transform="rotate(144 200 200)"/>
+      <use href="#seg" transform="rotate(180 200 200)"/>
+      <use href="#seg" transform="rotate(216 200 200)"/>
+      <use href="#seg" transform="rotate(252 200 200)"/>
+      <use href="#seg" transform="rotate(288 200 200)"/>
+      <use href="#seg" transform="rotate(324 200 200)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="90s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- inner triangle -->
+  <g filter="url(#glow)">
+    <polygon points="200,150 243,225 157,225" fill="none" stroke="#9FFBFF" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="-360 200 200" dur="30s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- core -->
+  <circle cx="200" cy="200" r="30" fill="url(#core)" filter="url(#glow)">
+    <animate attributeName="r" values="28;34;28" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
