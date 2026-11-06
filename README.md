@@ -79,9 +79,9 @@ All systems nominal. Awaiting your command, sir.
 ### 📨 SECURE CHANNELS
 
 <p align="center">
-  <a href="https://t.me/YOUR_NICK"><img src="https://img.shields.io/badge/TELEGRAM-0B0E14?style=for-the-badge&logo=telegram&logoColor=00F0FF" /></a>
-  <a href="mailto:mrkunyabai@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0E14?style=for-the-badge&logo=gmail&logoColor=FF0033" /></a>
-  <a href="https://linkedin.com/in/YOUR_NICK"><img src="https://img.shields.io/badge/LINKEDIN-0B0E14?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+  <a href="mailto:kuanyshkalikhanov0608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0E14?style=for-the-badge&logo=gmail&logoColor=FF0033" /></a>
+  <a href="https://t.me/norm_account_kalmapty"><img src="https://img.shields.io/badge/TELEGRAM-0B0E14?style=for-the-badge&logo=telegram&logoColor=00F0FF" /></a>
+  <a href="https://www.linkedin.com/in/kuanysh-kalikhanov-3266a9217/"><img src="https://img.shields.io/badge/LINKEDIN-0B0E14?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
 </p>
 
 <p align="center">
