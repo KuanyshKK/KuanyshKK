@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=120&text=STARK%20INDUSTRIES%20//%20MAINFRAME&fontSize=32&fontColor=0B0E14&stroke=FF0033&strokeWidth=2" width="100%" />
+  <img src="assets/arc-reactor.svg" width="220" alt="Arc reactor" />
 </p>
 
 <p align="center">
